@@ -2,86 +2,46 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Jean Sébastien Rioux-Boire
+(438) 505-8065   
+jeansebastien.riouxboire@gmail.com
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Summary
 
+Quick Summary (not objective) specifically highlighting why you qualify for the job.
 
-## Currently
+# Work Experience
 
-Standing on the shoulders of giants
+## XMC (Toronto, Ontario)
+*[XMC] A Proudly Independent, Canadian Sponsorship and Experiential Marketing™ Agency.*
 
-### Specialized in
+**Brand Ambassador** (April 19th 2018 - Present)
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Help raise brand awareness and increase sales by giving potential customers an experience to remember the brand by. . 
 
+- Guide visitors through **Best Buy**'s Smarthome at the **Fall Homeshow Expo**
+- Collect donations for **Tackle Hunger** by **Purolator** at a Montreal Alouettes football game.
+- Assist with tasks at the **Weber-Stephens Canada**'s **Mobile Grill Academy**
+- Answer people's questions about **Weber** BBQs at **Home Depot**
 
-### Research interests
+## Walmart Canada (Blainville, Quebec)
+*[Walmart Canada] One of the largest chain of hypermarkets in Canada.*
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Cashier** (November 2015 - June 2016)
 
+Operate the cash register and make sure customers receive excellent customer service.
 
-## Education
+## Groupe Inventaires Laparé (Blainville, Quebec)
+*[Groupe Inventaires Laparé] A company that specializes in assessing the inventory of stocks in stores.*
 
-`1654-1660`
-__The King's School, Grantham.__
+**Inventory Clerk** (November 2013 - December 2014)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Assess the inventory of the store as a team.
 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+[XMC]: https://xmc.ca/
+[Walmart Canada]: https://www.walmart.ca
+[Groupe Inventaires Laparé]: https://www.groupeinventaireslapare.com/
 
 
 <!-- ### Footer
