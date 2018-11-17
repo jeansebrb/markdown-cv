@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Jean Sébastien Rioux-Boire's CV
 ---
 # Jean Sébastien Rioux-Boire
 (438) 505-8065   
