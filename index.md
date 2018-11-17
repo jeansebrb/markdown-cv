@@ -1,5 +1,4 @@
 ---
-layout: cv
 title: Jean Sébastien Rioux-Boire's CV
 ---
 # Jean Sébastien Rioux-Boire
